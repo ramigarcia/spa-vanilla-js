@@ -1,0 +1,9 @@
+@import "components/reset";
+@import "components/nav";
+
+$bg_primary: url("./assets/saga-kanon.png");
+
+body {
+  background-image: $bg_primary;
+  color: white;
+}
