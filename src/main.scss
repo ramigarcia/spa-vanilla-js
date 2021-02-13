@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$bg_primary: url('./assets/saga-kanon.png');
+
+body {
+  background-image: $bg_primary;
+  color: white;
+}
